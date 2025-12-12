@@ -8,7 +8,7 @@
 
 ### Software Engineer | Web3 Infrastructure & Backend 
 
-I build high-reliability backend systems, specialized data indexing solutions, and cutting-edge decentralized applications (dApps).
+I build high-reliability backend systems, specialized data indexing solutions, and decentralized applications (dApps).
 
 ### 💡 Focus & Expertise
 
