@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-garg91824@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garg91824@gmail.com)](mailto:garg91824@gmail.com)
 ---
 
-### Software Engineer | Web3 Infrastructure & Backend 
+### Software Engineer | Infrastructure & Backend 
 
 I build high-reliability backend systems, specialized data indexing solutions, and decentralized applications (dApps).
 
